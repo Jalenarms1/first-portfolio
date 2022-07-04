@@ -9,3 +9,5 @@ I also became really comfortable with flex-box and specifically the importance o
 I enjoyed utilizing psuedo-classes, and I can see how important they are for presentability.
 
 Though I can tell what I've built is still very elementary, I am proud of the work I was able to do and in the time I was able to complete it in.
+
+![screenshot of the main page in my portfolio.](./pscreenshot.png)
