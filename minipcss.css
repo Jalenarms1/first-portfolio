@@ -11,7 +11,7 @@ body{
 }
 .back{
     background-image: linear-gradient(black, rgb(31, 70, 70) 90%);
-    min-height:100vh;
+    /* min-height:100vh; */
     padding-bottom:4%;
     
 }
